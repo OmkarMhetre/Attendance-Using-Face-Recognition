@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon/del2bl.png</file>
+    <file>icon/mysql.png</file>
+    <file>icon/deleng.com (1).png</file>
+    <file>icon/Admin-Profile-PNG-Clipart.png</file>
+    <file>icon/clipart869265.png</file>
+    <file>icon/Cross-mark-icon-in-red-color-on-transparent-background-PNG.png</file>
+    <file>icon/maximize-window-512.png</file>
+    <file>icon/minimize.png</file>
+    <file>icon/user-logout-304.png</file>
+    <file>icon/Custom-Icon-Design-Pretty-Office-8-User-blue.256.png</file>
+    <file>icon/Custom-Icon-Design-Pretty-Office-8-Users.256 (1).png</file>
+    <file>icon/Iynque-Flurry-Cameras-IPhone-BK.512.png</file>
+    <file>icon/facefont.png</file>
+    <file>icon/Faceicon.png</file>
+    <file>icon/face-scan (1).png</file>
+    <file>icon/bar-graph.png</file>
+  </qresource>
+</RCC>
